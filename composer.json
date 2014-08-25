@@ -1,0 +1,13 @@
+{
+    "name": "philipjohn/hasher",
+    "description": "Monitor and record Twitter hashtags using WordPress",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Philip John",
+            "email": "phil@philipjohn.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
