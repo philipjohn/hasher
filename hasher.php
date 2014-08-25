@@ -6,7 +6,7 @@
  * Version: 0.1
  * Author: Philip John
  * Author URI: http://philipjohn.me.uk
- * Depends: lib-twitter-api
+ * Depends: lib-twitter-api, Extended CPTs
  */
 
 /**
@@ -21,3 +21,4 @@ function hasher_init() {
 }
 
 register_activation_hook( __FILE__, 'hasher_init' );
+
