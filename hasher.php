@@ -22,3 +22,4 @@ function hasher_init() {
 
 register_activation_hook( __FILE__, 'hasher_init' );
 
+require 'inc/class.hasher.php';
